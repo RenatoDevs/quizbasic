@@ -1,0 +1,20 @@
+#gameover{
+    text-align: center;
+    height: 80vh;
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+}
+
+
+
+#gameover p {
+    color: #8435de;
+}
+
+#gameover img{
+    max-height: 300px;
+}
